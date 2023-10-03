@@ -1,0 +1,13 @@
+{
+    "buttonLogin": "Acessar",
+    "buttonLoginWith365": "Login com Office 365",
+    "Login": {
+        "loginInputs": {
+            "loginTitle": "Login",
+            "loginPlaceholder": "Insira seu login",
+            "passwordTitle": "Senha",
+            "passwordPlaceholder": "**************",
+            "recoverPassword": "Recuperar Senha"
+        }
+    }
+}
